@@ -16,6 +16,7 @@ if (foo) {
 }
 
 `);
+
     expect(errors).toEqual([]);
   });
 });
