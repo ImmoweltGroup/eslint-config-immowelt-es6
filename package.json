@@ -34,8 +34,8 @@
     "eslint-plugin-jest": "^21.12.2"
   },
   "devDependencies": {
-    "eslint-plugin-import": "^2.8.0",
-    "jest": "^22.3.0",
-    "semantic-release": "^12.4.1"
+    "eslint-plugin-import": "2.8.0",
+    "jest": "22.3.0",
+    "semantic-release": "12.4.1"
   }
 }
