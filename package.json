@@ -1,0 +1,41 @@
+{
+  "name": "@immowelt/eslint-config-immowelt-es6",
+  "version": "0.0.0-development",
+  "description": "JavaScript Standard Style For Immowelt ES6 Projects - ESLint Shareable Config",
+  "main": "src/index.js",
+  "author": "Immonet dev team <aegaeon@immonet.de> (https://www.immowelt.de)",
+  "license": "MIT",
+  "homepage": "https://github.com/ImmoweltGroup/eslint-config-immowelt-es6#readme",
+  "bugs": {
+    "url": "https://github.com/ImmoweltGroup/eslint-config-immowelt-es6/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ImmoweltGroup/eslint-config-immowelt-es6.git"
+  },
+  "keywords": [
+    "eslint",
+    "immowelt",
+    "config",
+    "immonet"
+  ],
+  "scripts": {
+    "lint": "eslint \"src/**/*.js\"",
+    "test": "jest",
+    "semantic-release": "semantic-release"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@immowelt/eslint-config-immowelt-es5": "^1.1.1",
+    "eslint": "^4.18.0",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-jest": "^21.12.2"
+  },
+  "devDependencies": {
+    "eslint-plugin-import": "^2.8.0",
+    "jest": "^22.3.0",
+    "semantic-release": "^12.4.1"
+  }
+}
