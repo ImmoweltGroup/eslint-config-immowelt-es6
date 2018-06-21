@@ -30,7 +30,7 @@
   "dependencies": {
     "@immowelt/eslint-config-immowelt-es5": "^1.1.1",
     "eslint": "^4.18.0",
-    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-config-airbnb-base": "^13.0.0",
     "eslint-plugin-jest": "^21.12.2"
   },
   "devDependencies": {
