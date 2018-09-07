@@ -36,6 +36,6 @@
   "devDependencies": {
     "eslint-plugin-import": "2.8.0",
     "jest": "22.4.0",
-    "semantic-release": "12.4.1"
+    "semantic-release": "15.9.14"
   }
 }
